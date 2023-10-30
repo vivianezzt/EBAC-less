@@ -36,6 +36,27 @@
 
 •	Aplicou mapas em estilos CSS;
 
+## Exercício Less 
+
+## Módulo Front-End EBAC
+
+<p>Neste exercício você deverá:
+<ul>
+<li>1) Converter o estilo do projeto disponibilizado no Material de apoio para o LESS;</li>
+<li>2) Utilizar os recursos do LESS que aprendeu durante o módulo:
+    <ul>
+    <li>variáveis;</li>
+    <li>divisão dos arquivos;</li>
+    <li>escapings;</li>
+    <li>mapas.</li>
+    </ul>
+</li>
+<li>3) Crie uma branch chamada exercicio_less no repositório do curso.</li>
+<li>4) Armazene os arquivos LESS nesta branch.</li>
+<li>5) Envie o link da branch através da plataforma.</li>
+</ul>
+</p>
+
 ### Resultado Final
 
 <a href="https://viviane-portifolio.vercel.app/">Portifólio Viviane</a>
